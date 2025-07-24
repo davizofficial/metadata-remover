@@ -1,4 +1,3 @@
-```markdown
 # 🛡️ Metadata Remover
 
 <p align="center">
